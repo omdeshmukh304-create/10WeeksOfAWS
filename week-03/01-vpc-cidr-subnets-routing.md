@@ -1,4 +1,4 @@
-# Day 5 - VPC, CIDR, Subnets, and Routing
+# Day 5 - VPC, CIDR, Subnets, and Routing....
 
 Goal: Understand the network building blocks before creating resources.
 
