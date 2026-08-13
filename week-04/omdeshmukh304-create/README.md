@@ -24,6 +24,8 @@ Manager (DLM), Amazon EFS, and EC2 Placement Groups**.
 
 ## 2. Architecture
 
+![alt text](image.png)
+
 ### EBS Persistence & Disaster Recovery
 
 ``` text
